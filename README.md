@@ -1,1 +1,1 @@
-# js-color-flipper
+# js-projects

@@ -27,6 +27,12 @@ button {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 10px;
+  transition-duration: 0.5s;
+}
+
+button:hover {
+  background-color: rgb(190, 190, 190);
+  color: black;
 }
 
 .center {
